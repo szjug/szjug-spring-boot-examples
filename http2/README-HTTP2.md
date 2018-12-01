@@ -1,4 +1,5 @@
 
+Easier in JDK9+
 
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#howto-configure-http2
 
