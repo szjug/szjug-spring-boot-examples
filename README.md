@@ -25,3 +25,6 @@ So on Server side there is just JSON Web Services
 1. Spring MVC
 2. Spring WebFlux (over netty)
 5. Spring Data Rest - this has been hope/promise to automatically generate JSON webservices for existing repositories, but unfortunately trying this always bring disappoinments.
+
+
+https://github.com/spring-projects/spring-boot/tree/v2.1.1.RELEASE/spring-boot-samples

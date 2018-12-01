@@ -1,0 +1,8 @@
+# https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
+server.http2.enabled
+
+server.port=8443
+server.ssl.key-store=classpath:keystore.jks
+server.ssl.key-store-password=secret
+server.ssl.key-password=another-secret
